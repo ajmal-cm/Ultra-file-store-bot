@@ -12,7 +12,7 @@
   <a href="https://t.me/miracle_bots">
     &nbsp;<img src="https://img.shields.io/badge/miracle %20%F0%9D%95%8F%20Bots-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/codexbotzsupport">
+  <a href="https://github.com/ajmal-cm/Ultra-file-store-bot">
     &nbsp;<img src="https://img.shields.io/badge/miracle %20%F0%9D%95%8F%20Bots-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -128,7 +128,7 @@ python3 main.py
 * `AUTO_DEL_SUCCESS_MSG` Set your custom success message for when the file is successfully deleted
 * `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/ajmal-cm/Ultra-file-store-bot'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#custom_stats'>fillings</a>
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/ajmal-cm/Ultra-file-store-bot/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 * `DATABASE_NAME` Your mongo db session name
 
